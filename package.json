@@ -1,0 +1,8 @@
+{
+  "name": "cra-template-durad-styled",
+  "version": "0.0.1",
+  "main": "template.json",
+  "repository": "git@github.com:durad/cra-template-tsmin.git",
+  "author": "Dusan Radovanovic <dushanr@gmail.com>",
+  "license": "MIT"
+}
